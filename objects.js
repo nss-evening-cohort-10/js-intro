@@ -70,4 +70,9 @@ findAndLogEmployeeStatus({
     status: ''
 })
 
+findAndLogEmployeeStatus({
+    name: prompt('Enter employee name again'),
+    status: ''
+})
+
 
